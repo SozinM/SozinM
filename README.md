@@ -14,7 +14,7 @@
 
 
 
-<h3 align="left">Languadges</p>
+<h3 align="left">Languages</p>
 
 ###
 
