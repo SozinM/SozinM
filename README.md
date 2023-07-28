@@ -6,11 +6,16 @@
 - 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **https://t.me/mikawa**
+- 📫 How to reach me **Discord: sozinm**
+
+
 
 <h3 align="left">Leetcode:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sozinm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sozinm" height="30" width="40" /></a>
 </p>
+
+
 
 
 
