@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **https://t.me/mikawa**
-- 📫 How to reach me **Discord: sozinm**
-
-
 
 <h3 align="left">Leetcode:</h3>
 <p align="left">
